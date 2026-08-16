@@ -32,7 +32,7 @@ export const teamMembers: TeamMember[] = [
     bio: 'Hello, I am Wasif Fouzan Mohammed, a business analyst on the team. I enjoy analyzing data and providing insights to drive business decisions.',
     // TODO: no real photo yet for fouzan121 — replace PLACEHOLDER_PHOTO with
     // an actual photo path once one is provided.
-    photoPath: PLACEHOLDER_PHOTO,
+    photoPath: '/images/team-pic/wasif.png',
   },
   {
     name: 'Diego Espinel Hernandez',
