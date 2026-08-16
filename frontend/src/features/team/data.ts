@@ -22,9 +22,7 @@ export const teamMembers: TeamMember[] = [
     name: 'Aryan Singla',
     role: 'PM',
     bio: 'Hello, I am Aryan Singla, a project manager on the team. I enjoy leading teams and delivering successful projects.',
-    // TODO: no real photo yet for this team member — replace PLACEHOLDER_PHOTO
-    // with an actual photo path once this member is identified.
-    photoPath: PLACEHOLDER_PHOTO,
+    photoPath: '/images/team-pic/aryan.jpeg',
   },
   {
     name: 'Wasif Fouzan Mohammed',
